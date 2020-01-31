@@ -1,6 +1,8 @@
 # climb-plotly
 
-Open the 'Final' notebook and run all cells to see the end visual. It may take a couple minutes to gather all of the data. 
+Open the 'Final' notebook and run all cells to see the end visual. It may take a couple minutes to gather all of the data.
+
+mtnprojDF is a csv file that is the final dataframe used for the visual.  
 
 Using data scraped from Mountain Project, a website where users share rock climbing routes,
 I created a plotly choropleth map that show which states have the most routes, while also displaying the amount
