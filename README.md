@@ -6,8 +6,7 @@ mtnprojDF is a csv file that is the final dataframe used for the visual.
 
 Using data scraped from Mountain Project, a website where users share rock climbing routes,
 I created a plotly choropleth map that show which states have the most routes, while also displaying the amount
-of certain types of routes (toprope, boulder, etc) and the number of Crags (climbing areas). Note that Nebraska and 
-Mississippi don't have any data because they are very flat states. 
+of certain types of routes (toprope, boulder, etc) and the number of Crags (climbing areas). N 
 
 The 'messy' folder contains various unorganized scratchwork and should not be viewed if you value organization. 
 
